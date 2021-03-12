@@ -1,0 +1,17 @@
+D:\seban\Desktop\repo\RevistaRegistro\ClaseEntidades\bin\Debug\ClaseEntidades.dll
+D:\seban\Desktop\repo\RevistaRegistro\ClaseEntidades\bin\Debug\ClaseEntidades.pdb
+D:\seban\Desktop\repo\RevistaRegistro\ClaseEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+D:\seban\Desktop\repo\RevistaRegistro\ClaseEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\seban\Desktop\repo\RevistaRegistro\ClaseEntidades\obj\Debug\ClaseEntidades.dll
+D:\seban\Desktop\repo\RevistaRegistro\ClaseEntidades\obj\Debug\ClaseEntidades.pdb
+C:\Users\Facu_\Desktop\ProyectoSeba\prueba1\ClaseEntidades\bin\Debug\ClaseEntidades.dll
+C:\Users\Facu_\Desktop\ProyectoSeba\prueba1\ClaseEntidades\bin\Debug\ClaseEntidades.pdb
+C:\Users\Facu_\Desktop\ProyectoSeba\prueba1\ClaseEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Facu_\Desktop\ProyectoSeba\prueba1\ClaseEntidades\obj\Debug\ClaseEntidades.dll
+C:\Users\Facu_\Desktop\ProyectoSeba\prueba1\ClaseEntidades\obj\Debug\ClaseEntidades.pdb
+D:\seban\Desktop\prueba1\ClaseEntidades\bin\Debug\ClaseEntidades.dll
+D:\seban\Desktop\prueba1\ClaseEntidades\bin\Debug\ClaseEntidades.pdb
+D:\seban\Desktop\prueba1\ClaseEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\seban\Desktop\prueba1\ClaseEntidades\obj\Debug\ClaseEntidades.dll
+D:\seban\Desktop\prueba1\ClaseEntidades\obj\Debug\ClaseEntidades.pdb
+D:\seban\Desktop\prueba1\ClaseEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
